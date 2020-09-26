@@ -13,3 +13,5 @@ The total drivers data also shows us that there are more drivers in urban cities
 <img width="625" alt="Screen Shot 2020-09-26 at 1 52 54 PM" src="https://user-images.githubusercontent.com/69806770/94347254-8a95b880-0000-11eb-88cc-55cc45671d2e.png">
 
 ### Total Fares
+The total fares follow the same pattern where the urban cities total fares are significantly higher and the rural cities total fares are the lowest. This could be due to the total number of rides and drivers being higher in urban cities and the lowest in rural or it could be that the price of rides in Urban cities is higher. The total fares are outlined in the table below:
+
