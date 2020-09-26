@@ -20,6 +20,7 @@ The total fares follow the same pattern where the urban cities total fares are s
 ### Average Fare per Ride
 The average fares per ride data results show that the fares in the urban cities are lower than both suburban and rural cities. Rural cities have the highest average fare per ride. This demonstrates that the total fares being higher in urban cities is not because of the average fare per ride but likely because of the total rides and drivers being higher. The average fares per rides are outlined in the table below:
 
+<img width="623" alt="Screen Shot 2020-09-26 at 1 53 30 PM" src="https://user-images.githubusercontent.com/69806770/94349705-0ef23680-0015-11eb-8a06-0465f4a78cb8.png">
 
 ### Average Fare per Driver
 The average fares per driver data results also show that the fares in the urban cities are the lowest and the average fares per driver in rural cities are the highest. This also solidifies that the reason for the total fares being higher in urban cities has to do with the total rides and total fares being higher. The average fares per driver are outlined in the table below:
