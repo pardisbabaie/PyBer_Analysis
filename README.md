@@ -27,3 +27,7 @@ The average fares per driver data results also show that the fares in the urban 
 
 <img width="622" alt="Screen Shot 2020-09-26 at 1 53 47 PM" src="https://user-images.githubusercontent.com/69806770/94349714-24fff700-0015-11eb-86c8-64b668aced99.png">
 
+### Total Fares by City Type
+In the chart below we can see that when looking at the city types on a line graph based on the week in each month and the total fares, there is fluctuation in the fare amount within each month. For all city types we see a peak in total fare amounts in the third week of February. However over all the total fares in urban cities are much higher throughout than both suburban and rural. Suburban is also consistently higher than rural. The line graph below demonstrates this:
+
+
