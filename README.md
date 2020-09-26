@@ -10,3 +10,6 @@ The total rides are highest in the urban cities and lowest in rural cities. This
 ### Total Drivers
 The total drivers data also shows us that there are more drivers in urban cities and the lowest in rural cities. This could mean there is less demand for drivers in urban cities or more drivers prefer to complete rides in urban cities. The total drivers are outlined in the table below:
 
+<img width="625" alt="Screen Shot 2020-09-26 at 1 52 54 PM" src="https://user-images.githubusercontent.com/69806770/94347254-8a95b880-0000-11eb-88cc-55cc45671d2e.png">
+
+### Total Fares
